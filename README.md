@@ -2,6 +2,8 @@
 
 An interactive **Power BI dashboard** built using the *Sample Superstore* dataset to analyze **sales, profit, quantity, and regional performance** across multiple dimensions such as time, region, category, and customer segment.
 
+![](screenshots/dashboard_overview.png)
+
 ---
 
 ## 🔍 Project Overview
