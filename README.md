@@ -64,4 +64,23 @@ The report is designed to support **data-driven decision-making** for retail and
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/sample-superstore-profit-report.git
+   git clone https://github.com/BirajDas27/sample-superstore-profit-report.git
+
+2. Open Power BI Desktop
+3. Load the file:
+   Locate the file superstore sales report.pbix
+4. click on open
+5. Interact with filters and visual elements and slicers to explore insights
+
+--
+
+## 🖼️ Screenshots
+
+### Profit by Region
+![](screenshots/profit_by_region.png)
+
+### Profit by Category
+![](screenshots/profit_by_category.png)
+
+### Profit by Customer Segment
+![](screenshots/profit_by_customersegments.png)
