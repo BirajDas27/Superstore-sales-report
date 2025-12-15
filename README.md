@@ -83,4 +83,4 @@ The report is designed to support **data-driven decision-making** for retail and
 ![](screenshots/profit_by_category.png)
 
 ### Profit by Customer Segment
-![](screenshots/profit_by_customersegments.png)
+![](screenshots/profit_by_customerSegments.png)
