@@ -72,7 +72,7 @@ The report is designed to support **data-driven decision-making** for retail and
 4. click on open
 5. Interact with filters and visual elements and slicers to explore insights
 
---
+---
 
 ## 🖼️ Screenshots
 
@@ -83,4 +83,4 @@ The report is designed to support **data-driven decision-making** for retail and
 ![](screenshots/profit_by_category.png)
 
 ### Profit by Customer Segment
-![](screenshots/profit_by_customerSegments.png)
+![](screenshots/profit_by_customerSegment.png)
