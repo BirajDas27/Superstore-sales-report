@@ -84,3 +84,20 @@ The report is designed to support **data-driven decision-making** for retail and
 
 ### Profit by Customer Segment
 ![](screenshots/profit_by_customerSegment.png)
+
+---
+
+## 📌 Dataset
+
+1. Source: Sample Superstore Dataset
+2. Fields Used:
+   Order Date, State, Region, Category, Sub-Category, Segment, Sales, Quantity, Profit
+
+---
+
+## 🚀 Future Enhancements
+
+🔸 Add forecasting using time-series analysis
+🔸 Include KPI alerts for loss-making regions
+🔸 Optimize DAX measures for performance
+🔸 Add drill-through pages for deeper analysis
