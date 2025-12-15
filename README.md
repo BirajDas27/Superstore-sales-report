@@ -26,6 +26,7 @@ The report is designed to support **data-driven decision-making** for retail and
 ---
 
 ## 📂 Project Structure
+
 ![](screenshots/file_structure.png)
 
 ---
