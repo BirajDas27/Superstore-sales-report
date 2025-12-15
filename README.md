@@ -20,14 +20,13 @@ The report is designed to support **data-driven decision-making** for retail and
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
 - **Sample Superstore Dataset**
 - Microsoft Bing Maps (for geographic visualization)
 
 ---
 
 ## 📂 Project Structure
-
+![](screenshots/file_structure.png)
 
 ---
 
